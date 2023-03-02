@@ -1,7 +1,7 @@
 # action.yml
-name: 'AWS Elastic Beanstalk cli'
+name: 'AWS Elastic Beanstalk cli deployment'
 
-author: Habid Manzur
+author: Burak Sonmez
 
 description: 'Provide eb cli commands'
 
